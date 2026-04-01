@@ -8,7 +8,7 @@
 
 	import { indexFetch } from '$lib/indexfetch';
 	import { getContext } from 'svelte';
-	import Sidebar from '../sidebar.svelte';
+	// import Sidebar from '../sidebar.svelte'; // TODO - uncomment when sidebar.svelte added
 
 	import type { RoundData } from '../../inviteTypes';
     import ShowDate from '$lib/layouts/ShowDate.svelte';
